@@ -1,8 +1,0 @@
-Origin: EpsilonSynapses Cydia Repo
-Label: EpSyn Repo
-Suite: stable
-Version: 0.9
-Codename: Cyber
-Architectures: iphoneos-arm
-Components: main
-Description: A Repository filled with tweaks created by EpsilonSynapses
