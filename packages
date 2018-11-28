@@ -1,0 +1,16 @@
+Package: com.epsilonsynapses.appinitiate
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: epsilonsynapses
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./com.epsilonsynapses.appinitiate_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3764
+MD5sum: f60ca956633a316e1ca128766469856f
+SHA1: 54c217e8a7a88507e8eef66aa10f2e4cc02dc6f3
+SHA256: 3b057e01811bdc5fc42683c8ab587e7c1a6bd18684ff2f9a543b6661ad1d35bf
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: epsilonsynapses
+Name: app-initiate
+
